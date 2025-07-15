@@ -5,7 +5,7 @@
 <h3 align="center"> Graphic Designer| Front End Developer | Software Engineering Student</h3>
 
 <p align=center>
-  <a href="https://github.com/Shahzad-Ahmed-Awan">
+  <a href="![Visitor Count](https://profile-counter.glitch.me/{Shahzad-Ahmed-Awan}/count.svg)">
     <img src="https://badges.pufler.dev/visits/Shahzad-Ahmed-Awan">
   </a>
      
