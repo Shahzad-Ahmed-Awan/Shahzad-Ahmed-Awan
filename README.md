@@ -8,6 +8,11 @@
   <a href="https://github.com/Shahzad-Ahmed-Awan">
     <img src="https://badges.pufler.dev/visits/Shahzad-Ahmed-Awan">
   </a>
+     <div align='center'><a href=''><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=143008&s=4' 
+        border='1' alt=''></a>
+        <br/>
+        <small><a href='' title="Free Website Hit Counter"></a></small>
+    </div> 
   <a href="https://github.com/shahzad-Ahmed-Awan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Shahzad-Ahmed-Awan?style=flat-square&color=black&logo=github">
   </a>
