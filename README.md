@@ -3,12 +3,6 @@
 </div>
 <h1 align="center">👋 Hi, I’m Shahzad Ahmed Awan</h1>
 <h3 align="center"> Graphic Designer| Front End Developer | Software Engineering Student</h3>
-
-<p align=center>
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-  <a href="https://github.com/shahzad-Ahmed-Awan">
-    <img src="https://profile-counter.glitch.me/{Shahzad-Ahmed-Awan}/count.svg">
-  </a>
      
   <a href="https://github.com/shahzad-Ahmed-Awan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Shahzad-Ahmed-Awan?style=flat-square&color=black&logo=github">
