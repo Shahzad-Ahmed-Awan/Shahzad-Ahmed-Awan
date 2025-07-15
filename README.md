@@ -6,7 +6,7 @@
 
 <p align=center>
   <a href="https://github.com/shahzad-Ahmed-Awan">
-    <img src="![Visitor Count](https://profile-counter.glitch.me/{Shahzad-Ahmed-Awan}/count.svg)">
+    <img src="https://profile-counter.glitch.me/{Shahzad-Ahmed-Awan}/count.svg">
   </a>
      
   <a href="https://github.com/shahzad-Ahmed-Awan?tab=repositories">
