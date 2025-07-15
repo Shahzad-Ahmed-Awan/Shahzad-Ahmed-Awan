@@ -6,9 +6,9 @@
 
 <p align=center>
   <a href="https://github.com/Shahzad-Ahmed-Awan">
-    <img src="https://badges.pufler.dev/visits/Shahzad-Ahmed-Awan/Shahzad-Ahmed-Awan?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/shahzad-Ahmed-Awan/Shahzad-Ahmed-Awan?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Shahzad-Ahmed-Awan?tab=repositories">
+  <a href="https://github.com/shahzad-Ahmed-Awan?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Shahzad-Ahmed-Awan?style=flat-square&color=black&logo=github">
   </a>
 </p>
