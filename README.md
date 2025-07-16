@@ -4,9 +4,6 @@
 <h1 align="center">👋 Hi, I’m Shahzad Ahmed Awan</h1>
 <h3 align="center"> Graphic Designer| Front End Developer | Software Engineering Student</h3>
      
-  <a href="https://github.com/shahzad-Ahmed-Awan?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Shahzad-Ahmed-Awan?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 <p align="center">
 <a href="https://github.com/Shahzad-Ahmed-Awan"><img src="https://img.shields.io/github/followers/Shahzad-Ahmed-Awan?style=social"></a>
