@@ -62,7 +62,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzad-Ahmed-Awan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
-
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzad-Ahmed-Awan&theme=github-compact&bg_color=191919&color=6D00FF&line=00bcd4&point=FFFFFF" alt="Contribution Graph"/>
+</div>
 ---
  
 ### 🌐 Socials:
